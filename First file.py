@@ -13,13 +13,6 @@ print(x % y)
 
 print("Payel" * 5)
 
-first_name = "Payel"
-last_name = "Banerjee"
-full_name = first_name + " "+ last_name
-print(full_name)
-temp = int (input("Enter temperature in Fahrenheit"))
-celsius = (temp - 32) * 5//9
-print(f"{temp} degrees fahrenheit is equal to {celsius} degree(s) celsius")
 
 
 
